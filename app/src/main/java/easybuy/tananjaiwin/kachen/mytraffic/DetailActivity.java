@@ -39,9 +39,6 @@ public class DetailActivity extends AppCompatActivity {
         String[] detailStrings = getResources().getStringArray(R.array.long_data);
         detailTextView.setText(detailStrings[intIndex]);
 
-
-
-
     }//Main Method
 
     public void clickBack(View view) {
