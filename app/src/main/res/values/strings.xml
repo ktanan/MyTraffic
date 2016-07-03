@@ -2,5 +2,7 @@
     <string name="app_name">Easy Traffic</string>
 
     <string name="head_main">ป้ายจราจร</string>
+    <string name="head_detail">เครื่องหมายที่ </string>
+    <string name="button_back">Back</string>
 
 </resources>
